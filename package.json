@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@sentry/browser": "^5.23.0",
+    "@sentry/react": "^5.22.3",
+    "@sentry/types": "^5.23.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "@types/uuid": "^8.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "rrweb": "^0.9.3",
+    "typescript": "^4.0.2",
+    "uuid": "^8.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
